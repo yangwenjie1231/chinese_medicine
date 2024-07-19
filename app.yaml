@@ -1,0 +1,10 @@
+id: chinese_medicine
+name: chinese_medicine
+version: 1.0.0
+author: ywj
+icon: app.png
+desc: 分类5种药材
+files:
+  - main.py
+  - model_139629.cvimodel
+  - model_139629.mud
